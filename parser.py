@@ -14,4 +14,6 @@ dollarExchangeRate = tr[34:]
 dollarExchangeRate = dollarExchangeRate[:7]
 
 
-print("Курс доллара: " + dollarExchangeRate + ' рублей')
+print("\nКурс доллара: " + dollarExchangeRate + ' рублей')
+
+input()
